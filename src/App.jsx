@@ -234,7 +234,7 @@ function App() {
           <div className="photo-wrap">
             <div className="photo-fallback">MR</div>
             <img
-              src="/profile.jpg"
+              src={profilePhoto}
               alt="Mohamed Raafat"
               onError={(event) => {
                 event.currentTarget.style.display = 'none'
