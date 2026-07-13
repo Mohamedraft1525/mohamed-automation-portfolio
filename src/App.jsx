@@ -1,3 +1,5 @@
+
+import profilePhoto from './IMG_20260712_191659.png'
 const links = {
   github: 'https://github.com/Mohamedraft1525',
   linkedin: 'https://www.linkedin.com/in/mohamed-raafat-mr/',
